@@ -10,7 +10,7 @@
 
 # My solution
 name=input()
-print('Привет,', name, end='!')
+  print('Привет,', name, end='!')
 
 # Interesting solution
 print('Привет', input(), sep=', ',end='!')
